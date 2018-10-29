@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lee&#39;s site</title>
+  
+  <subtitle>让明天的你感谢今天的你。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-10-26T11:00:05.113Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Eric Lee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的博客</title>
+    <link href="http://yoursite.com/2018/10/26/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/10/26/我的博客/</id>
+    <published>2018-10-26T11:00:04.000Z</published>
+    <updated>2018-10-26T11:00:05.113Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
